@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 import javax.swing.*;
-
+//COMMENT CMOMENT COMMENT CMOMENT
 public class GUIPizza
 	{
 	// window frame

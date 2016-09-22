@@ -1,7 +1,8 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
- 
+//COMMENT CMOMENT COMMENT CMOMENT
+
 public class JPanelDemo extends JFrame
 	{
 	private static final long serialVersionUID = 1L;
