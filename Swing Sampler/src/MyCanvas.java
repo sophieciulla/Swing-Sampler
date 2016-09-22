@@ -1,7 +1,8 @@
 import java.awt.*;
 
 import javax.swing.*;
- 
+//COMMENT CMOMENT COMMENT CMOMENT
+
 public class MyCanvas extends Canvas 
 	{
 	private static final long	serialVersionUID	= 1L;
